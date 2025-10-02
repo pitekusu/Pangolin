@@ -1,4 +1,4 @@
-name: terraform-ci-cd
+name: terraform-Pangolin
 
 on:
   pull_request:
